@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.327d5de1.css",
+    "main.js": "/static/js/main.60e2b2b3.js",
+    "static/js/787.e0f9bd73.chunk.js": "/static/js/787.e0f9bd73.chunk.js",
+    "static/media/Pretendard-Light.ttf": "/static/media/Pretendard-Light.3711e13d79704d388100.ttf",
+    "static/media/Pretendard-Regular.ttf": "/static/media/Pretendard-Regular.7c20008ec8c0968904c4.ttf",
+    "static/media/Pretendard-Medium.ttf": "/static/media/Pretendard-Medium.a55315616a247a625bea.ttf",
+    "static/media/Pretendard-ExtraBold.ttf": "/static/media/Pretendard-ExtraBold.7ca47a8c0824d1f740dc.ttf",
+    "static/media/Pretendard-Bold.ttf": "/static/media/Pretendard-Bold.3657cde72d6af8de8bfb.ttf",
+    "static/media/Pretendard-Light.otf": "/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
+    "static/media/Pretendard-Medium.otf": "/static/media/Pretendard-Medium.a8904df42c9b4f93a668.otf",
+    "static/media/Pretendard-Bold.otf": "/static/media/Pretendard-Bold.3ec32cdae5bc0c0026a6.otf",
+    "static/media/Pretendard-Regular.otf": "/static/media/Pretendard-Regular.de88013f2ea98a04dede.otf",
+    "static/media/Pretendard-ExtraBold.otf": "/static/media/Pretendard-ExtraBold.6a8d330cb367af8c7a57.otf",
+    "static/media/Pretendard-ExtraBold.woff": "/static/media/Pretendard-ExtraBold.82ea4400a5eea299b40c.woff",
+    "static/media/Pretendard-Bold.woff": "/static/media/Pretendard-Bold.f6866c5eb21ccb9a8749.woff",
+    "static/media/Pretendard-Medium.woff": "/static/media/Pretendard-Medium.f902522b86842449110e.woff",
+    "static/media/Pretendard-Regular.woff": "/static/media/Pretendard-Regular.ab56c53f21ca6b32d15f.woff",
+    "static/media/Pretendard-Light.woff": "/static/media/Pretendard-Light.40808ea4485a78c05f92.woff",
+    "static/media/Pretendard-ExtraBold.woff2": "/static/media/Pretendard-ExtraBold.55bef92e8f01b6b6ef2f.woff2",
+    "static/media/Pretendard-Bold.woff2": "/static/media/Pretendard-Bold.0676c8838a37a3b770d8.woff2",
+    "static/media/Pretendard-Medium.woff2": "/static/media/Pretendard-Medium.ea235f1edb8815831a25.woff2",
+    "static/media/Pretendard-Regular.woff2": "/static/media/Pretendard-Regular.6090e6b5524796768e78.woff2",
+    "static/media/Pretendard-Light.woff2": "/static/media/Pretendard-Light.27c9a07cbc308ce88d1a.woff2",
+    "static/media/card_background.jpeg": "/static/media/card_background.4c8d56485cea4ed7a37c.jpeg",
+    "static/media/VectorHome.png": "/static/media/VectorHome.f356d7405788a66e0515.png",
+    "static/media/vector.png": "/static/media/vector.8daad35f78b315182f2f.png",
+    "static/media/character.png": "/static/media/character.d3d048557233c2a79a3d.png",
+    "static/media/cluvmLogo.png": "/static/media/cluvmLogo.e91bbb9beebf658c3d55.png",
+    "static/media/ProfileImg.png": "/static/media/ProfileImg.961568814dceb733c85a.png",
+    "static/media/umcLogo.png": "/static/media/umcLogo.276e08607706f1e83c11.png",
+    "static/media/plane.png": "/static/media/plane.d5534b00d931dd6278e7.png",
+    "index.html": "/index.html",
+    "main.327d5de1.css.map": "/static/css/main.327d5de1.css.map",
+    "main.60e2b2b3.js.map": "/static/js/main.60e2b2b3.js.map",
+    "787.e0f9bd73.chunk.js.map": "/static/js/787.e0f9bd73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327d5de1.css",
+    "static/js/main.60e2b2b3.js"
+  ]
+}

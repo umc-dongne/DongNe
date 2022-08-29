@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Pretendard Light */
+@font-face {
+  font-family: 'Pretendard Light';
+  src: url('./styles/fonts/Pretendard/web/woff2/Pretendard-Light.woff2')
+      format('woff2'),
+    url('./styles/fonts/Pretendard/web/woff/Pretendard-Light.woff')
+      format('woff'),
+    url('./styles/fonts/Pretendard/public/Pretendard-Light.otf')
+      format('opentype'),
+    url('./styles/fonts/Pretendard/ios/Pretendard-Light.ttf') format('truetype');
+}
+
+/* Pretendard Regular */
+@font-face {
+  font-family: 'Pretendard Regular';
+  src: url('./styles/fonts/Pretendard/web/woff2/Pretendard-Regular.woff2')
+      format('woff2'),
+    url('./styles/fonts/Pretendard/web/woff/Pretendard-Regular.woff')
+      format('woff'),
+    url('./styles/fonts/Pretendard/public/Pretendard-Regular.otf')
+      format('opentype'),
+    url('./styles/fonts/Pretendard/ios/Pretendard-Regular.ttf')
+      format('truetype');
+}
+
+/* Pretendard Medium */
+@font-face {
+  font-family: 'Pretendard Medium';
+  src: url('./styles/fonts/Pretendard/web/woff2/Pretendard-Medium.woff2')
+      format('woff2'),
+    url('./styles/fonts/Pretendard/web/woff/Pretendard-Medium.woff')
+      format('woff'),
+    url('./styles/fonts/Pretendard/public/Pretendard-Medium.otf')
+      format('opentype'),
+    url('./styles/fonts/Pretendard/ios/Pretendard-Medium.ttf')
+      format('truetype');
+}
+
+/* Pretendard Bold */
+@font-face {
+  font-family: 'Pretendard Bold';
+  src: url('./styles/fonts/Pretendard/web/woff2/Pretendard-Bold.woff2')
+      format('woff2'),
+    url('./styles/fonts/Pretendard/web/woff/Pretendard-Bold.woff')
+      format('woff'),
+    url('./styles/fonts/Pretendard/public/Pretendard-Bold.otf')
+      format('opentype'),
+    url('./styles/fonts/Pretendard/ios/Pretendard-Bold.ttf') format('truetype');
+}
+
+/* Pretendard ExtraBold */
+@font-face {
+  font-family: 'Pretendard ExtraBold';
+  src: url('./styles/fonts/Pretendard/web/woff2/Pretendard-ExtraBold.woff2')
+      format('woff2'),
+    url('./styles/fonts/Pretendard/web/woff/Pretendard-ExtraBold.woff')
+      format('woff'),
+    url('./styles/fonts/Pretendard/public/Pretendard-ExtraBold.otf')
+      format('opentype'),
+    url('./styles/fonts/Pretendard/ios/Pretendard-ExtraBold.ttf')
+      format('truetype');
+}
