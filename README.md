@@ -2,6 +2,14 @@
 
 **동네 - 동아리 네트워크 플랫폼**
 
+### 📢 Published Link
+
+https://bingle625.shop
+
+### ⚙️ Notion Link
+
+https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322
+
 ![로그인](https://user-images.githubusercontent.com/96720326/187247086-8a8af129-7413-4522-99d1-1eaf2a4039cb.jpg)
 
 ## 동네는 어떤 서비스인가요?
@@ -41,10 +49,3 @@
 
 ![그림1](https://user-images.githubusercontent.com/96720326/187251424-94f2b33b-9488-4404-a5f1-236f0f7c011b.png)
 
-### 📢 Published Link
-
-https://bingle625.shop
-
-### ⚙️ Notion Link
-
-https://www.notion.so/ca9bbbad676b4aecac9eaaa219a7e322
